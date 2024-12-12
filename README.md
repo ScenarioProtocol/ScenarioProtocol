@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://scenarioprotocol.io">
-    <img src="https://scenarioprotocol.io/src/images/logo/logo-white.svg" alt="Scenario Protocol Logo" width="250" height="60">
+    <img src="https://scenarioprotocol.io/images/logo.png" alt="Scenario Protocol Logo" width="250" height="60">
   </a>
 
   <h3 align="center">Scenario Protocol</h3>
